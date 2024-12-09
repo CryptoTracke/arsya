@@ -36,11 +36,11 @@ let projects = [
     url: 'https://web-trevorx.vercel.app/',
   },
   {
-    image: 'textures/project-wholesale.jpg',
+    image: '',
     url: '',
   },
   {
-    image: 'textures/project-pelotero.jpg',
+    image: '',
     url: '',
   },
 ];
