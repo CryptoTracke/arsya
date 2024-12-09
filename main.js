@@ -33,15 +33,15 @@ let projects = [
   },
   {
     image: 'textures/project-myteachers.jpg',
-    url: 'https://myteachers.com.au/',
+    url: 'https://web-trevorx.vercel.app/',
   },
   {
     image: 'textures/project-wholesale.jpg',
-    url: 'https://wholesale.com.np/',
+    url: '',
   },
   {
     image: 'textures/project-pelotero.jpg',
-    url: 'https://www.peloterosenlaweb.com/',
+    url: '',
   },
 ];
 let aboutCameraPos = {
