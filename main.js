@@ -317,10 +317,10 @@ function loadIntroText() {
       new THREE.MeshPhongMaterial({ color: 0x171f27, flatShading: true }),
       new THREE.MeshPhongMaterial({ color: 0xffffff }),
     ];
-    const titleGeo = new TextGeometry('Trevorx_403', {
+    const titleGeo = new TextGeometry('Trevorx_', {
       font: font,
-      size: 0.01,
-      height: 0.03,
+      size: 0.07,
+      height: 0.05,
     });
     titleText = new THREE.Mesh(titleGeo, textMaterials);
     titleText.rotation.y = Math.PI * 0.5;
