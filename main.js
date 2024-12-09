@@ -319,7 +319,7 @@ function loadIntroText() {
     ];
     const titleGeo = new TextGeometry('Trevorx_403', {
       font: font,
-      size: 0.08,
+      size: 0.01,
       height: 0.03,
     });
     titleText = new THREE.Mesh(titleGeo, textMaterials);
