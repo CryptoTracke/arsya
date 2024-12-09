@@ -320,7 +320,7 @@ function loadIntroText() {
     const titleGeo = new TextGeometry('Trevorx_', {
       font: font,
       size: 0.07,
-      height: 0.05,
+      height: 0.02,
     });
     titleText = new THREE.Mesh(titleGeo, textMaterials);
     titleText.rotation.y = Math.PI * 0.5;
